@@ -6,6 +6,6 @@ Setup XAMPP local host to run Apache Web Server and MySQL Database to work on de
 
 Worked with enabling various themes and modules. Modules include: Core, Chaos Tool Suite, AddToAny (Sharing feature such as Facebook, Twitter, etc), Site Map, Views and WebForm.
 
-*PLEASE CLICK ON THE IMAGES IN GITHUB (drupalOne, drupalTwo, etc.) TO SEE WHAT THE SITE LOOKS LIKE SINCE IT IS NOT DEPLOYED
+*PLEASE CLICK THE LINK BELOW TO SEE WHAT THE SITE LOOKS LIKE SINCE IT IS NOT DEPLOYED*
 
-OR VISIT https://noahking27.github.io/King_Web_Design_Drupal/ *
+ https://noahking27.github.io/King_Web_Design_Drupal/ 
