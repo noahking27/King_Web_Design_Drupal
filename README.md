@@ -5,3 +5,5 @@ Drupal Website made with Drupal Version 7. Added content about taking new client
 Setup XAMPP local host to run Apache Web Server and MySQL Database to work on developing King Web Design locally.
 
 Worked with enabling various themes and modules. Modules include: Core, Chaos Tool Suite, AddToAny (Sharing feature such as Facebook, Twitter, etc), Site Map, Views and WebForm.
+
+*PLEASE CLICK ON THE IMAGES (drupalOne, drupalTwo, etc.) TO SEE WHAT THE SITE LOOKS LIKE SINCE IT IS NOT DEPLOYED*
